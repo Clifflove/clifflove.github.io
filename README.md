@@ -119,7 +119,7 @@
 
 		<footer class="footer">
 
-			<div class="copyright">Design, code and all images by Alexandra Sentís. &copy 2022 All rights reserved.</div>
+			<div class="copyright">Design,hope alive>
 
 			
 
