@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title> imperial studio </title>
+		<title> imperial  studio </title>
 		<link rel="icon" type="image/jpg" href="img/favicon/favicon.jpg">
 		<link rel="stylesheet" href="css/stylesheet.css">
 		<link rel="stylesheet" href="css/grid_gallery.css">
